@@ -7,4 +7,4 @@ Add your content here.
 
 = Website =
 
-Main Home Page: [http://www.google.com PINE-APPLE]
+Main Home Page: [http://code.google.com/p/pine-apple PINE-APPLE]
