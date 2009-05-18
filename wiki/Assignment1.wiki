@@ -14,13 +14,13 @@ Kelly Pang
 
 == 2. Project Planning ==
 
-*Project Schedule*
+=== Project Schedule ===
 
 http://pine-apple.googlecode.com/files/ProjectGant%20-%20v0.1.gif
 
-Item 5 (Project Plan) is on the critical path.
+  * Item 5 (Project Plan) is on the critical path.
 
-*Risk Management*
+=== Risk Management ===
 
 
 
