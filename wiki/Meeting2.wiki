@@ -1,0 +1,42 @@
+#summary Week 2 mt 1.
+
+==Admin==
+
+ * Date: May 14 (Wk 2, meeting 1)
+ * Time: 830 - 900pm
+ * Location: HC 1700
+ * Attendees: Kelly, Jesse, Matthew, Rich
+
+==Agenda==
+
+ # 1. Discuss project Ideas from individual brainstorming
+
+==Discussion==
+
+ # Discussed ideas for new project:
+  * Offline Google Maps
+  * Game
+  * Encryption App
+  * Calorie Counter
+ # Decided to go forward with Offline Google Maps
+  * Presented idea
+  * Feedback was negative due to copyright issues
+  * More brainstorming needed
+ # Next Meeting Friday at 2pm, SFU Library
+  * Finalize new project, Plan for Assignment
+
+==Status Update==
+
+ # Team Name
+  * Brainstorm (everybody) - in progress
+ # Team Project
+  * Research possibilities on iPhone
+  * Brainstorm and give a few suggestions (everbody) - in progress
+ # iPhone SDK for Windows??
+  * Investigate (everybody) - complete
+  * VM running MacOS on Win available, SDK works (Jesse)
+
+==Action==
+
+Brainstorm new ideas based on feedback and new
+requirements from lecture for meeting tmr (everybody)
