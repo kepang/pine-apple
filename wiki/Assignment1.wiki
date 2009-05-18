@@ -4,6 +4,27 @@
 
 Kelly Pang
 
+= Project Plan =
+
+== 1. Table of Contents ==
+
+== 2. Revision History ==
+
+== 3. Project Overview ==
+
+== 4. Project Planning ==
+
+*Project Schedule*
+
+http://pine-apple.googlecode.com/files/ProjectGant%20-%20v0.1.gif
+
+*Risk Management*
+
+
+
+
+
+
 
 = Website =
 
