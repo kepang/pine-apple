@@ -31,3 +31,40 @@
    * Reaction Time Testing game
   * Players can create profiles
   * Scores measure your fitness level and can be uploaded to a web server to compare results between players and to display trends
+
+==Assignment==
+
+ # Kelly Selected as PM
+  * Not available Wednesday night until about 10pm
+  * WebCT submission delegated to Jesse
+ # Group Review of Assignment 1 Requirements
+  * Issues Discussed
+  * Tasks assigned
+  * Agreed to communicate over email and meet up before
+  * Submission Date for final review
+
+==Action==
+
+ * Project Website - Rich
+ * Project Plan Tasks
+  # Overall format (TOC, Revision History). Put it all together
+   * Jesse
+  # Project Overview (Summary, Stakeholders, Users)
+   * Jesse
+  # Project Planning
+   * Gant Chart - Kelly
+   * Risk Mgmt - Matthew
+
+ * Google code - Matthew
+ * Meeting Minutes - Kelly
+ * Send Bio to Rich - Everybody
+
+==Other==
+
+ * Team name is pine-apple
+ * Links to VM Ware and MacOS for windows sent to everyone
+  * Start preliminary research into iPhone Dev.
+ * Google code site:
+   * http://code.google.com/p/pine-apple/
+ * Status Update
+  * All previous tasks are complete. New tasks are assigned this week.
