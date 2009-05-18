@@ -1,13 +1,33 @@
 #summary Week 2 mt 2.
 
-= Introduction =
+==Admin==
 
-Add your content here.
+ * Date: May 15 (Wk 2, meeting 2)
+ * Time: 200 - 400pm
+ * Location: SFU Library
+ * Attendees: Kelly, Jesse, Matthew, Rich
 
 
-= Details =
+==Agenda==
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+ # Discuss Project Ideas
+ # Assign PM for Assignment 1
+ # Go through tasks for Project Website
+ # Go through tasks for Project Plan
+ # Assign tasks and due dates.
+
+==Discuss Project Idea==
+
+ # Brainstorm Results based on New Requirements
+  * iPhone Tracker - upload location data to web server and track on Google Maps real time
+  * Retail Application to find car prices and info across many dealerships
+  * Fitness related Minigame app consisting of many levels (selected)
+  * Mah Jong, Chinese Games
+ # Minigame Project - "iFit"
+  * Some level ideas include:
+   * Step counter
+   * Lung Capacity Tester - Baloon blower or flame blower
+   * Balance Tester - Tight Rope Walking
+   * Reaction Time Testing game
+  * Players can create profiles
+  * Scores measure your fitness level and can be uploaded to a web server to compare results between players and to display trends
