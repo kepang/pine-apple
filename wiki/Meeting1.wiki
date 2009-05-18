@@ -29,3 +29,12 @@
    * Programming Challenges
     * We need to educate ourselves about the iPhone SDK
    * No one has a Mac
+
+==Actions for next week==
+ # Team Name
+  * Brainstorm @ home (everybody)
+ # Team Project
+  * Research possibilities on iPhone
+  * Brainstorm and give a few suggestions (everbody)
+ # iPhone SDK for Windows??
+  * Investigate (everybody)
