@@ -6,13 +6,13 @@ Kelly Pang
 
 = Project Plan =
 
-== 1. Table of Contents ==
+== i. Table of Contents ==
 
-== 2. Revision History ==
+== ii. Revision History ==
 
-== 3. Project Overview ==
+== 1. Project Overview ==
 
-== 4. Project Planning ==
+== 2. Project Planning ==
 
 *Project Schedule*
 
