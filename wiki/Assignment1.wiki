@@ -22,9 +22,9 @@ http://pine-apple.googlecode.com/files/ProjectGant%20-%20v0.1.gif
 
 === Risk Management ===
 
-== 3. Team Meeting Agenda and Minutes
+== 3. Team Meeting Agenda and Minutes ==
 
-== 4. Team Members and Roles
+== 4. Team Members and Roles ==
 
 = Website =
 
