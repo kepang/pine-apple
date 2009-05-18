@@ -24,7 +24,9 @@ http://pine-apple.googlecode.com/files/ProjectGant%20-%20v0.1.gif
 
 == 3. Team Meeting Agenda and Minutes ==
 
-[Meeting1 http://code.google.com/p/pine-apple/wiki/Meeting1]
+[http://code.google.com/p/pine-apple/wiki/Meeting1 Meeting 1]
+[http://code.google.com/p/pine-apple/wiki/Meeting2 Meeting 2]
+[http://code.google.com/p/pine-apple/wiki/Meeting3 Meeting 3]
 
 == 4. Team Members and Roles ==
 
