@@ -60,6 +60,8 @@ http://pine-apple.googlecode.com/files/ProjectGant%20-%20v0.1.gif
 ||Team member(s) fails to attend meeting	||Low	||Low||
 
 === Contingency Plan ===
+||Risk            ||Strategy||
+
 == 3. Team Meeting Agenda and Minutes ==
 
 [http://code.google.com/p/pine-apple/wiki/Meeting1 Meeting 1]
