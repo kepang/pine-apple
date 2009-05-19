@@ -35,7 +35,7 @@ Kelly Pang
   * Fitness enthusiasts 
  # *Assumptions*
   * The word gamer means someone who plays a multitude of games, new and old, on a given medium (in this case the iPhone/ iTouch)
-  * People have very little free time to receive physical stimulation
+  * People want to become fit
   * Ability to read English
 
 
