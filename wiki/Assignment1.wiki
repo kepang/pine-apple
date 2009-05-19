@@ -10,6 +10,12 @@ Kelly Pang
 
 == ii. Revision History ==
 
+||Revision||Status||Publication/Revision date||By||
+||1.0||Created blank website|| May 14 2009||Matthew||
+||1.1||Added team name and placeholder link to assignment 1||May 15 2009||Rich||
+||2.0||Added team information and biographies||May 16 2009||Rich||
+||3.0||Added table of contents, project overview, risk management, GANTT chart, and link to meeting minutes||May 17 2009||Kelly, Rich, Jesse, Matthew||
+
 == 1. Project Overview ==
 
  # *Summary*
