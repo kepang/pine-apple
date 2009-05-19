@@ -44,9 +44,10 @@ Kelly Pang
 
 === Project Schedule ===
 
-http://pine-apple.googlecode.com/files/ProjectGant%20-%20v0.1.gif
+  * Item 5 (Project Plan) is on the critical path towards Milestone M1.
 
-  * Item 5 (Project Plan) is on the critical path.
+http://pine-apple.googlecode.com/files/ProjectGant%20-%20v1.0.gif
+
 
 === Risk Management ===
 ||Risk	||Probability	||Effects||
