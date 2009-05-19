@@ -12,6 +12,21 @@ Kelly Pang
 
 == 1. Project Overview ==
 
+ # *Summary*
+  * Our goal is to create a game, called the iFit, which has various multi-games which are used to calculate an overall “fitness” level. The overall result is tracked and posted online allowing the user to view their progress for each individual mini-game and their overall “fitness” level on any iPhone/ iTouch (this also implies multiple people can create multiple accounts on a single iPhone / iTouch).
+
+ # *Stakeholder*
+  * Herbert Tsang
+   * Listed as the administer for the application therefore if the application fails it ruins his reputation among the Apple community
+  * Team Pine-Apple 
+   * The developers of the application who receive majority (if not all) of the responsibility of the failure/ success of the application
+   * The grades of Team Pine-Apple are also on the line
+  * Apple Inc.
+   * As the creator of the iPhone and iTouch if they place the iFit on their app store and the application is severely disliked by the users their reputation is lowered throughout the technological world
+  * The “health” of iPhone/ iTouch owners
+   * As it will be iPhone/ iTouch users “health that will be the problem that the iFit will be trying to fix, if the users fail to increase their overall score over a given period of time the application could possibly be considered as a failure
+
+
 == 2. Project Planning ==
 
 === Project Schedule ===
@@ -22,14 +37,14 @@ http://pine-apple.googlecode.com/files/ProjectGant%20-%20v0.1.gif
 
 === Risk Management ===
 ||Risk	||Probability	||Effects||
-||A team member is hit by a truck	||Low	||High||
-||Team member(s) drop(s) out of the course	||Low	||High||
-||Modification to the design of our project	||Medium	||Moderate||
-||A team member falls ill	||Low	||Moderate||
-||Member’s computer malfunctions	||Low	||Moderate||
-||Team member(s) fails to complete assigned task	||Low	||Moderate||
-||The time required to develop software is underestimated	||Medium	||Low||
-||Team member(s) fails to attend meeting	||Low	||Low||
+A team member is hit by a truck	Low	High
+Team member(s) drop(s) out of the course	Low	High
+Modification to the design of our project	Medium	Moderate
+A team member falls ill	Low	Moderate
+Member’s computer malfunctions	Low	Moderate
+Team member(s) fails to complete assigned task	Low	Moderate
+The time required to develop software is underestimated	Medium	Low
+Team member(s) fails to attend meeting	Low	Low
 
 
 == 3. Team Meeting Agenda and Minutes ==
