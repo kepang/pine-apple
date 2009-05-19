@@ -44,23 +44,38 @@ Kelly Pang
 
 === Project Schedule ===
 
-  * Item 5 (Project Plan) is on the critical path towards Milestone M1.
+Item 5 (Project Plan) is on the critical path towards Milestone M1.
 
 http://pine-apple.googlecode.com/files/ProjectGant%20-%20v1.0.gif
 
 
-=== Risk Management ===
-||Risk	||Probability	||Effects|| Action Plan ||
-||Team member(s) die(s)	||Low	||High|| Every member must send a copy of what they are working on to the web or to other member's email.||
-||Team member(s) drop(s) out of the course	||Low	||High|| Make sure that the work that team member(s) working on will be sent to other working members.||
-||Modification to the design of our project	||Medium	||Moderate||Create a group meeting and discuss about modifications that will cause less change.||
-||A team member falls ill	||Low	||Moderate||Make sure that the work assigned to that member is covered by other member(s).||
-||Member’s computer malfunctions	||Low	||Moderate||Every member must send a copy of what they are working on to the web or to other member's email before leaving the computer. Save the file every 10 minutes.||
-||Team member(s) fails to complete assigned task	||Low	||Moderate||The project manager will check on team members everyday to see if they are on schedule.||
-||The time required to develop software is underestimated	||Medium	||Low||Every member will have to work maybe few overnights in order to get the project to completion.||
-||Team member(s) fails to attend meeting	||Low	||Low||Tell the team member(s) what the meeting will be about and maybe input some quick thoughts. Email the minutes of the meeting to the members.||
-||Google code fails, Google server fails      ||Low    ||Low||Find an back up web hosting website and put everything there. Email the link to the professor.||
 
+=== Risk Management ===
+
+
+||Risk ||Probability ||Impact||Action Plan ||Contingency Plan||
+||Team member dies / gets sick||Low ||High||None||Re-allocate work to other members||
+||Team member drops course||Low ||High||Ask team members to provide warning if they plan to drop the course.||Make sure that the work that team member is working on is sent to other working members.||
+||Team member fails to complete assigned task ||Low ||Moderate||The project manager will check on team members to see if they are on schedule.||Assign the work to another team member.||
+||Team member fails to attend meeting ||Low ||Low||Schedule meetings at a time when everyone is available.||Tell the team member what the meeting will be about and input some quick thoughts. Email the minutes of the meeting to the member.||
+||Modification to the design of our project ||Medium ||Moderate||Freeze requirements before implementation phase.||Create a group meeting and discuss about modifications that will cause less change.||
+||Computer Malfunction ||Low ||Moderate||Check for health of team members' computers.  Resolve any issues that could be problems later.   Each team member is responsible for backing up their own work to external location (eg. Email)||Use school computers to continue work or pass backup files to another team member.||
+||The time required to develop software is underestimated ||Medium ||Moderate||Identify core features which must be completed.  Additional features can be added or dropped accordingly.||Every member will have to work overtime in order to bring the project to completion.||
+||Difficulty of project is underestimated||Medium ||High||Investigate difficulty of core features early on in the process to minimize surprises.||Every member will have to work overtime in order to bring the project to completion.||
+||Google code fails, Google server fails ||Low ||Low||Back up web contents regularly.  Find a back up web host.||Put everything on the back up host. Email the link to the professor.||
+
+
+
+||Risk	||Probability	||Effects|| 
+||Team member(s) die(s)	||Low	||High|| 
+||Team member(s) drop(s) out of the course	||Low	||High||
+||Modification to the design of our project	||Medium	||Moderate||
+||A team member falls ill	||Low	||Moderate||
+||Member’s computer malfunctions	||Low	||Moderate||
+||Team member(s) fails to complete assigned task	||Low	||Moderate||
+||The time required to develop software is underestimated	||Medium	||Low||
+||Team member(s) fails to attend meeting	||Low	||Low||
+||Google code fails, Google server fails      ||Low    ||Low||
 
 === Contingency Plan ===
 ||Risk            ||Strategy||
