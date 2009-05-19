@@ -50,7 +50,7 @@ http://pine-apple.googlecode.com/files/ProjectGant%20-%20v0.1.gif
 
 === Risk Management ===
 ||Risk	||Probability	||Effects||
-||A team member is hit by a truck	||Low	||High||
+||Team member(s) die(s)	||Low	||High||
 ||Team member(s) drop(s) out of the course	||Low	||High||
 ||Modification to the design of our project	||Medium	||Moderate||
 ||A team member falls ill	||Low	||Moderate||
@@ -58,10 +58,11 @@ http://pine-apple.googlecode.com/files/ProjectGant%20-%20v0.1.gif
 ||Team member(s) fails to complete assigned task	||Low	||Moderate||
 ||The time required to develop software is underestimated	||Medium	||Low||
 ||Team member(s) fails to attend meeting	||Low	||Low||
+||Google code fails, Google server fails      ||Low    ||Low||
 
 === Contingency Plan ===
 ||Risk            ||Strategy||
-
+||Team member(s) die(s) || Make 
 == 3. Team Meeting Agenda and Minutes ==
 
 [http://code.google.com/p/pine-apple/wiki/Meeting1 Meeting 1]
