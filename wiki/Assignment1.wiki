@@ -14,7 +14,6 @@ Kelly Pang
 
  # *Summary*
   * Our goal is to create a game, called the iFit, which has various multi-games which are used to calculate an overall “fitness” level. The overall result is tracked and posted online allowing the user to view their progress for each individual mini-game and their overall “fitness” level on any iPhone/ iTouch (this also implies multiple people can create multiple accounts on a single iPhone / iTouch).
-
  # *Stakeholder*
   * Herbert Tsang
    * Listed as the administer for the application therefore if the application fails it ruins his reputation among the Apple community
@@ -25,6 +24,14 @@ Kelly Pang
    * As the creator of the iPhone and iTouch if they place the iFit on their app store and the application is severely disliked by the users their reputation is lowered throughout the technological world
   * The “health” of iPhone/ iTouch owners
    * As it will be iPhone/ iTouch users “health that will be the problem that the iFit will be trying to fix, if the users fail to increase their overall score over a given period of time the application could possibly be considered as a failure
+ # *Users*
+  * iPhone/ iTouch gamers
+  * Fitness enthusiasts 
+ # *Assumption*
+  * The word gamer means someone who plays a multitude of games, new and old, on a given medium (in this case the iPhone/ iTouch)
+  * People have very little free time to receive physical stimulation
+  * Ability to read English
+
 
 
 == 2. Project Planning ==
