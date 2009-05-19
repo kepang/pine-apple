@@ -62,7 +62,9 @@ http://pine-apple.googlecode.com/files/ProjectGant%20-%20v0.1.gif
 
 === Contingency Plan ===
 ||Risk            ||Strategy||
-||Team member(s) die(s) || Make 
+||Team member(s) die(s) ||Every member must send a copy of what they are working on to the web or to other member's email||
+||Team member(s) drop(s) out of the course     ||Make sure that the work that team member(s) working on will be sent to other working members||
+||Modification to the design of our project      ||Create a group meeting and discuss about modifications that will cause less change||
 == 3. Team Meeting Agenda and Minutes ==
 
 [http://code.google.com/p/pine-apple/wiki/Meeting1 Meeting 1]
