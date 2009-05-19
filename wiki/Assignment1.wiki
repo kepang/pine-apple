@@ -19,7 +19,7 @@ Kelly Pang
 == 1. Project Overview ==
 
  # *Summary*
-  * Our goal is to create a game, called the iFit, which has various multi-games which are used to calculate an overall “fitness” level. The overall result is tracked and posted online allowing the user to view their progress for each individual mini-game and their overall “fitness” level on any iPhone/ iTouch (this also implies multiple people can create multiple accounts on a single iPhone / iTouch).
+  * Our goal is to create a game, called the iFit, which has various mini-games which are used to calculate an overall “fitness” level. The overall result is tracked and posted online allowing the user to view their progress for each individual mini-game and their overall “fitness” level on any iPhone/ iTouch (this also implies multiple people can create multiple accounts on a single iPhone / iTouch).
  # *Stakeholders*
   * Herbert Tsang
    * Listed as the administer for the application therefore if the application fails it ruins his reputation among the Apple community
