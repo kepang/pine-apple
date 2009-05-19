@@ -44,14 +44,14 @@ http://pine-apple.googlecode.com/files/ProjectGant%20-%20v0.1.gif
 
 === Risk Management ===
 ||Risk	||Probability	||Effects||
-A team member is hit by a truck	Low	High
-Team member(s) drop(s) out of the course	Low	High
-Modification to the design of our project	Medium	Moderate
-A team member falls ill	Low	Moderate
-Member’s computer malfunctions	Low	Moderate
-Team member(s) fails to complete assigned task	Low	Moderate
-The time required to develop software is underestimated	Medium	Low
-Team member(s) fails to attend meeting	Low	Low
+||A team member is hit by a truck	||Low	||High||
+||Team member(s) drop(s) out of the course	||Low	||High||
+||Modification to the design of our project	||Medium	||Moderate||
+||A team member falls ill	||Low	||Moderate||
+||Member’s computer malfunctions	||Low	||Moderate||
+||Team member(s) fails to complete assigned task	||Low	||Moderate||
+||The time required to develop software is underestimated	||Medium	||Low||
+||Team member(s) fails to attend meeting	||Low	||Low||
 
 
 == 3. Team Meeting Agenda and Minutes ==
