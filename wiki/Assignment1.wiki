@@ -1,6 +1,6 @@
 #summary Project Website and Plans.
 
-= Project Manager =
+== Project Manager ==
 
 Kelly Pang
 
