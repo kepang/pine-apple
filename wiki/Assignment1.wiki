@@ -85,7 +85,7 @@ http://pine-apple.googlecode.com/files/ProjectGant%20-%20v1.0.gif
 
 == 4. Team Members and Roles ==
 
-*Individual Biographies are on the Pine-Apple Main Home Page.*
+*Individual Biographies are on the [http://code.google.com/p/pine-apple Pine-Apple Main Home Page].*
 
 Kelly Pang - Project Manager
 
