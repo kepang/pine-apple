@@ -1,12 +1,22 @@
 #summary Project Website and Plans.
 
-== Project Manager ==
-
-Kelly Pang
-
 = Project Plan =
 
 == i. Table of Contents ==
+
+i. Table of Contents
+
+ii. Revision History
+
+1. Project Overview
+
+2. Project Planning
+ * Project Schedule
+ * Risk Management
+
+3. Team Meeting Agenda and Minutes
+
+4. Team Members and Roles
 
 == ii. Revision History ==
 
