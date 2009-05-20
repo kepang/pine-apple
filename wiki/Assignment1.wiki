@@ -47,10 +47,7 @@ ii. Revision History
   * The word gamer means someone who plays a multitude of games, new and old, on a given medium (in this case the iPhone/ iTouch)
   * People want to become fit
   * Ability to read English
-
  # *Risks* 
-=== Risk Management ===
-
 
 ||Risk ||Probability ||Impact||Action Plan ||Contingency Plan||
 ||Difficulty of project is underestimated||Medium ||High||Investigate difficulty of core features early on in the process to minimize surprises.||Every member will have to work overtime in order to bring the project to completion.||
