@@ -25,11 +25,12 @@ ii. Revision History
 ||1.1||Added team name and placeholder link to assignment 1||May 15 2009||Rich||
 ||2.0||Added team information and biographies||May 16 2009||Rich||
 ||3.0||Added table of contents, project overview, risk management, GANTT chart, and link to meeting minutes||May 17 2009||Kelly, Rich, Jesse, Matthew||
+||4.0||Project idea changed from minigame to iClicky.  Project Overview modified.||May 20 2009||Jesse||
 
 == 1. Project Overview ==
 
  # *Summary*
-  * Our goal is to create an improved version of the I-Clicker used in classrooms, called the iClicky. The fact that it is designed for the iPhone/ iTouch helps prevent people from lending it to other people to fake attendance. The iClicky will also have features not found in the original I-Clicker such as the ability to report the students score at the end of the lecture.
+  * Our goal is to create an improved version of the I-Clicker used in classrooms, called the iClicky. The fact that it is designed for the iPhone/ iTouch helps prevent people from lending it to other people to fake attendance. The iClicky will also have features not found in the original I-Clicker such as the ability to report the students score at the end of the lecture.  This project idea is credited to Herbert Tsang.
  # *Stakeholders*
   * Herbert Tsang
    * Listed as the administer for the application therefore if the application fails it ruins his reputation among the Apple community
