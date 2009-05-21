@@ -44,7 +44,7 @@ ii. Revision History
   * Professors
   * Students
  # *Assumptions*
-  * Professors use the I-Clicker or want to if it had more functions
+  * Professors use the I-Clicker or would if it had more functions
   * Students have an iPhone/ iTouch
   * Ability to read English
  # *Risks* 
