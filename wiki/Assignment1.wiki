@@ -48,7 +48,16 @@ ii. Revision History
   * Professors use the I-Clicker or would if it had more functions
   * Students have an iPhone/ iTouch
   * Ability to read English
- # *Risks* 
+
+== 2. Project Planning ==
+
+=== Project Schedule ===
+
+Item 5 (Project Plan) is on the critical path towards Milestone M1.
+
+http://pine-apple.googlecode.com/files/ProjectGant%20-%20v1.0.gif
+
+=== Risk Management ===
 
 ||Risk ||Probability ||Impact||Action Plan ||Contingency Plan||
 ||Difficulty of project is underestimated||Medium ||High||Investigate difficulty of core features early on in the process to minimize surprises.||Every member will have to work overtime in order to bring the project to completion.||
@@ -60,16 +69,6 @@ ii. Revision History
 ||Computer Malfunction ||Low ||Moderate||Check for health of team members' computers.  Resolve any issues that could be problems later.   Each team member is responsible for backing up their own work to external location (eg. Email)||Use school computers to continue work or pass backup files to another team member.||
 ||Team member fails to attend meeting ||Low ||Low||Schedule meetings at a time when everyone is available.||Tell the team member what the meeting will be about and input some quick thoughts. Email the minutes of the meeting to the member.||
 ||Google code fails, Google server fails ||Low ||Low||Back up web contents regularly.  Find a back up web host.||Put everything on the back up host. Email the link to the professor.||
-
-
-== 2. Project Planning ==
-
-=== Project Schedule ===
-
-Item 5 (Project Plan) is on the critical path towards Milestone M1.
-
-http://pine-apple.googlecode.com/files/ProjectGant%20-%20v1.0.gif
-
 
 == 3. Team Meeting Agenda and Minutes ==
 
