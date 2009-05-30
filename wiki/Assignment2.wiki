@@ -4,6 +4,8 @@
 
 Add your content here.
 
+== Requirement Document == 
 
-= Details =
+== Designs Document ==
 
+== Quality Assurance Plan ==
