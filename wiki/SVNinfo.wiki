@@ -2,7 +2,7 @@
 
 = Instructions =
 
-   #1 Download and install TortoiseSVN.
+   #1 Download and install [http://tortoisesvn.tigris.org/ TortoiseSVN].
    #2 Create a new folder on your desktop.
    #3 Right-Click on the new folder that you created in step 2.
    #4 Click SVN Checkout.
