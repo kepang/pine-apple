@@ -9,5 +9,5 @@
    #5 Enter the URL https://pine-apple.googlecode.com/svn/trunk/ where it asks for "URL of repository."
    #6 Click OK
    #7 Enter google username
-   #8 Enter password generated from the URL http://code.google.com/hosting/settings
+   #8 Enter password generated from [http://code.google.com/hosting/settings settings] (must be logged in to view settings)
    #9 Click OK
