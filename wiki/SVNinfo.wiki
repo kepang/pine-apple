@@ -10,3 +10,4 @@
    #6 Click OK
    #7 Enter google username
    #8 Enter password generated from the URL http://code.google.com/hosting/settings
+   #9 Click OK
