@@ -1,0 +1,5 @@
+#summary view the class statistic.
+
+= Class Statistic =
+
+Add your content here.
