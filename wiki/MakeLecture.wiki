@@ -1,0 +1,6 @@
+#summary create new lecture.
+
+= Make Lecture =
+
+Add your content here.
+
