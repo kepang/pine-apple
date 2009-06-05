@@ -1,0 +1,7 @@
+#summary add and remove students from a class.
+
+= Add and Remove Student =
+
+Add your content here.
+
+
