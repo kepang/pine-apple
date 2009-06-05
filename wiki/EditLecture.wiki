@@ -1,0 +1,6 @@
+#summary make and edit lectures.
+
+= Edit Lecture =
+
+Add your content here.
+
