@@ -1,0 +1,7 @@
+#summary check attendance for a certain class.
+
+= Check Attendance =
+
+Add your content here.
+
+
