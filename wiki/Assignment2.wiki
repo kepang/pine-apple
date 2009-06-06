@@ -4,8 +4,25 @@
 
 Add your content here.
 
-== Requirement Document == 
+= REQUIREMENTS DOCUMENT = 
 
-== Designs Document ==
+== Introduction ==
 
-== Quality Assurance Plan ==
+== Intended Audience ==
+
+== Features ==
+=== Client Features ===
+=== Server Features ===
+
+== Non-Functional Requirements ==
+
+== Example Tutorials ==
+=== Client Tutorials ===
+
+=== Server Tutorials ===
+
+== Glossary ==
+
+= DESIGN DOCUMENT =
+
+= QUALITY ASSURANCE PLAN =
