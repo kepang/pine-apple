@@ -2,4 +2,4 @@
 
 = Register Account (Student) =
 
-Richard is a second year student in Simon Fraser University, he needs to register to I-Clicky since his instructor told him that every student has to have an I-Clicky account to Take an attendance and to do the quizzes. Richard goes to I-Clicky webppage
+Richard is a second year student in Simon Fraser University, he needs to register to I-Clicky since his instructor told him that every student has to have an I-Clicky account to Take an attendance and to do the quizzes. Richard goes to I-Clicky webpage
