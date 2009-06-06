@@ -1,6 +1,4 @@
-#summary create an account.
+#summary create an account for student.
 
-= Register Account =
-
-Add your content here.
+= Register Account (Student) =
 
