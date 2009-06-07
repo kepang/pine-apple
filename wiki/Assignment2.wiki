@@ -2,7 +2,7 @@
 
 ==== Project Manager ====
 
-Add your content here.
+[http://pine-apple.googlecode.com/files/Group-2-Requirements.doc Link to Requirements Document]
 
 = REQUIREMENTS DOCUMENT = 
 
