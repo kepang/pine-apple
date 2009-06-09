@@ -8,9 +8,9 @@ John is a computer science instructor; he is having a hard time taking attendanc
 
  
 2.John has an Admin account and has the permission to manage the class. He decides to click on the ``class manger” button.
+
  
 3.Since John wants to check his class attendance, he clicks the “Attendance” tab, and chooses which class and lecture attendance to be viewed.
+
  
 4.John is now done so he can log out.
-
-
