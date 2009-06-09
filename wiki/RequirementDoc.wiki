@@ -140,4 +140,4 @@ Target systems on the client side include the iPhone and iPod Touch.  The server
 
 == 6.0 Glossary ==
 
-Link to Glossary
+Link to [http://code.google.com/p/pine-apple/wiki/Glossary Glossary]
