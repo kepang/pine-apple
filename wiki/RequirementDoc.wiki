@@ -23,3 +23,28 @@
   * 5.1 Client
   * 5.2 Server
  * 6.0 Glossary
+
+== 1.0 Introduction ==
+
+iClicky is an application designed for iPhone/ iTouch mobile devices. It is designed to be used in classrooms as a way to quiz students during lectures as well as being able to take attendance. iClicky will have 5 multiple choice buttons that will be used to select an answer to a question displayed by the application. It will also have the ability to register a student account to the device so the instructor has the ability to view each student’s mark. This is also to prevent students from being able to change accounts in the middle of a quiz (this would most likely be done by someone who plans to write quizzes for multiple students).  The results are recorded onto an online database where the instructor has the ability to view students marks, add students to specific classes, and create passwords for each lecture to ensure only those who attend lecture will be able to do the quiz.
+
+== 2.0 Intended Audience ==
+
+The intended audiences of the application are students and instructors, mainly university students and their instructors.
+
+*Assumed Experience*
+
+The users of the iClicky must be able have basic knowledge of computers and using the iPhone
+ * Instructors and students have used a computer with a mouse and keyboard
+ * Instructors have used the internet
+ * Instructors and students have used iPhone
+
+Assumed Expertise
+ * Students expertise in using iPhone 
+ * Instructors being able to maintain the class content and schedule
+ 
+Assumed Goal
+The purpose of using iClicky is to maintain flexibility for students and instructors with participating and managing the class.
+ * Instructors are able to take attendance
+ * Instructors are able to make quizzes
+ * Students are able to get the quizzes result immediately.
