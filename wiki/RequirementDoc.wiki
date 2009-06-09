@@ -136,7 +136,7 @@ Target systems on the client side include the iPhone and iPod Touch.  The server
  * Tutorial #4: Make a Lecture
  * Tutorial #5: Make a Quiz Question
  * Tutorial #6: Manage Student
- * Tutorial #7: Register Admin Account
+ * [http://code.google.com/p/pine-apple/wiki/RegisterAccountAdmin Tutorial #7: Register Admin Account]
 
 == 6.0 Glossary ==
 
