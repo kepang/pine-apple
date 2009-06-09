@@ -39,11 +39,13 @@ The users of the iClicky must be able have basic knowledge of computers and usin
  * Instructors have used the internet
  * Instructors and students have used iPhone
 
-Assumed Expertise
+*Assumed Expertise*
+
  * Students expertise in using iPhone 
  * Instructors being able to maintain the class content and schedule
  
-Assumed Goal
+*Assumed Goal*
+
 The purpose of using iClicky is to maintain flexibility for students and instructors with participating and managing the class.
  * Instructors are able to take attendance
  * Instructors are able to make quizzes
