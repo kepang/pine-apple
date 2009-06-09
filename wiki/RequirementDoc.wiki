@@ -89,3 +89,26 @@ Here is a summary of what the server-side user interface should look like.  This
  * Quiz Manager
  * Attendance Recorder
  * Display Results
+
+== 4.0 Non-Functional Requirements ==
+The non-functional requirements of the iClicky system cover five categories.  They are speed, ease of use, reliability, robustness, and portability.  These requirements are applied across all functional requirements in order to support performance, usability, and quality across the entire system.  Methodology for testing non-functional requirements will be outlined in the QA Plan document.
+
+=== 4.1 Speed ===
+The response time of the system will be comparable with the response time of web browsing when using network related features of iClicky (server).
+
+ * The system will respond within 5 seconds to the user’s requests 90% of the time under normal network conditions.
+
+When using iPhone related features, the response time will be comparable with existing iPhone applications.
+
+ * The system will respond in less than two seconds unless the feature is processing of large amounts of data.
+
+=== 4.2 Ease of Use ===
+The User Interface for the entire system will be easy to use with a minimal learning curve.  The client UI should be consistent with existing applications already available for iPhone to avoid “re-learning” of new UI conventions.  Additionally, each screen from the server and client will remain uncluttered, and the functions / commands will be clear and grouped where applicable.
+
+ * The average computer user will understand the UI reasonably well after no more than 3 iterations of use in each screen or page.
+
+=== 4.3 Reliability ===
+The reliability metrics of the system will be as follows:
+ * The system will be up 24 hours per day, 7 days per week.  Exceptions may be made for standard server maintenance, such as OS updates or security fixes.
+ * The system will not crash 9 times out of 10.  Each usage scenario or use case will be defined as 1 time.
+ * The average time between failures (crashes) will be greater than 5 hours.  
