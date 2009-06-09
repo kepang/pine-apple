@@ -64,7 +64,7 @@ Within these two groups, the feature list is again divided into a short section 
 
 Here is a summary of what the client-side user interface should look like.  This should be regarded as a guideline only
 
-[http://pine-apple.googlecode.com/files/guidelines1.PNG]
+[http://pine-apple.googlecode.com/files/guideline1.PNG]
 ==== 3.1.2 Functional Requirements ====
 
  * One time user information
@@ -78,6 +78,8 @@ Here is a summary of what the client-side user interface should look like.  This
 ==== 3.2.1 User Interface Guideline ====
 
 Here is a summary of what the server-side user interface should look like.  This should be regarded as a guideline only.
+
+[http://pine-apple.googlecode.com/files/guideline2.PNG]
 
 ==== 3.1.2 Functional Requirements ====
 
