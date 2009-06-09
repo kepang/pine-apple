@@ -4,22 +4,22 @@
 
 == Table of Contents ==
 
-#  Introduction	2
-2.0Intended Audience	3
-3.0Features	4
-3.1Client	4
-3.1.1User Interface Guideline	4
-3.1.2Functional Requirements	5
-3.2 Server	6
-3.2.1User Interface Guideline	6
-3.2.2Functional Requirements	7
-4.0Non-Functional Requirements	13
-4.1Speed	13
-4.2Ease of Use	13
-4.3Reliability	13
-4.4Robustness	14
-4.5Portability	14
-5.0Example Tutorials	15
-5.1Client	15
-5.2Server	20
-6.0Glossary	33
+ * 1.0 Introduction........................................2
+ * 2.0 Intended Audience..............................3
+ * 3.0 Features...........................................4
+  * 3.1 Clien.............................................4
+   * 3.1.1 User Interface Guideline........................4
+   * 3.1.2 Functional Requirements.........................5
+  * 3.2 Server.............................................6
+   * 3.2.1 User Interface Guideline........................6
+   * 3.2.2 Functional Requirements.........................7
+ * 4.0 Non-Functional Requirements.........................13
+  * 4.1 Speed..............................................13
+  * 4.2 Ease of Use........................................13
+  * 4.3 Reliability........................................13
+  * 4.4 Robustness.........................................14
+  * 4.5 Portability........................................14
+ * 5.0 Example Tutorials...................................15
+  * 5.1 Client.............................................15
+  * 5.2 Server.............................................20
+ * 6.0 Glossary............................................33
