@@ -130,7 +130,7 @@ Target systems on the client side include the iPhone and iPod Touch.  The server
 
 === Server ===
 
- * Tutorial #1: Checking Attendance
+ * [http://code.google.com/p/pine-apple/wiki/CheckAttendance Tutorial #1: Checking Attendance]
  * Tutorial #2: Class Statistics
  * Tutorial #3: Edit Lecture
  * Tutorial #4: Make a Lecture
