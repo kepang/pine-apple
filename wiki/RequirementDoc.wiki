@@ -50,3 +50,20 @@ The purpose of using iClicky is to maintain flexibility for students and instruc
  * Instructors are able to take attendance
  * Instructors are able to make quizzes
  * Students are able to get the quizzes result immediately.
+
+== 3.0 Features ==
+
+The feature list is categorized into two main groups:  
+ * Client Functionality
+ * Server Functionality
+Within these two groups, the feature list is again divided into a short section on User Interface guidelines and a much more comprehensive section on Functional Requirements.
+
+=== 3.1	Client ===
+
+=== 3.1.1 User Interface Guideline ===
+
+Here is a summary of what the client-side user interface should look like.  This should be regarded as a guideline only
+
+=== 3.1.2 Functional Requirements ===
+
+
