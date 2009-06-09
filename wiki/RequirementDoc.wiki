@@ -71,3 +71,18 @@ Here is a summary of what the client-side user interface should look like.  This
  * Quiz
  * Display Completed Quizzes
  * Help
+
+=== 3.2 Server ===
+
+==== 3.2.1 User Interface Guideline ====
+
+Here is a summary of what the server-side user interface should look like.  This should be regarded as a guideline only.
+
+==== 3.1.2 Functional Requirements ====
+
+ * User Manager
+ * Class Manager
+ * Lecture Manager
+ * Quiz Manager
+ * Attendance Recorder
+ * Display Results
