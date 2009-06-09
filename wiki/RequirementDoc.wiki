@@ -118,3 +118,26 @@ The reliability metrics of the system will be as follows:
 
 === 4.5 Portability ===
 Target systems on the client side include the iPhone and iPod Touch.  The server will targeted to a machine with Apache web server, mySQL DB server, and PHP interpreter installed.
+
+== 5.0 Example Tutorials ==
+
+=== Client ===
+
+ * Tutorial #1: Opening application for the first time and registering an account
+ * Tutorial #2: Using iClicky for a Quiz
+ * Tutorial #3: View previously done quizzes
+ * Tutorial #4: Tutorials and Extras
+
+=== Server ===
+
+ * Tutorial #1: Checking Attendance
+ * Tutorial #2: Class Statistics
+ * Tutorial #3: Edit Lecture
+ * Tutorial #4: Make a Lecture
+ * Tutorial #5: Make a Quiz Question
+ * Tutorial #6: Manage Student
+ * Tutorial #7: Register Admin Account
+
+== 6.0 Glossary ==
+
+Link to Glossary
