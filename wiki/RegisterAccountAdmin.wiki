@@ -2,18 +2,14 @@
 
 = Register Account (Admin) =
 
-Jerry is a new instructor in Simon Fraser University, he needs to register to I-Clicky since he thinks that I-clicky will help him to manage his class. So, Jerry goes to I-Clicky webpage.
+Jerry is a new instructor in Simon Fraser University. He wants to register an iClicky account since he thinks that iClicky will help him to manage his classes and he follows these steps:
 
-http://pine-apple.googlecode.com/files/registerlogin.PNG
-
-Jerry clicks the “Register” tab 
+1. He clicks the register tab.
 
 http://pine-apple.googlecode.com/files/registerlogin2.PNG
 
-Since Jerry wants to make an admin account, he chooses admin and press submit
-
-http://pine-apple.googlecode.com/files/register-student1.PNG
-
-Jerry fills in the form, and the account is created
+2. Jerry fills in the form, and clicks submit to create the account
 
 http://pine-apple.googlecode.com/files/register-student2.PNG
+
+3.	Jerry can now login with his new account
