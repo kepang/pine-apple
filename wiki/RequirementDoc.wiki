@@ -3,22 +3,3 @@
 = Requirement Document =
 
 == Table of Contents ==
-*       Introduction	
-*	Intended Audience	
-*	Features	
- **	Client	
-  3.1.1	User Interface Guideline	
-  3.1.2	Functional Requirements	
-3.2 Server	
- 3.2.1	User Interface Guideline	
- 3.2.2	Functional Requirements	
-4.0	Non-Functional Requirements	
- 4.1	Speed	
- 4.2	Ease of Use	
- 4.3	Reliability	
- 4.4	Robustness	
- 4.5	Portability	
-5.0	Example Tutorials	
- 5.1	Client	
- 5.2	Server	
-6.0	Glossary	
