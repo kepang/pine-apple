@@ -19,7 +19,13 @@ http://pine-apple.googlecode.com/files/Admin.PNG
 3. Eric clicks the “Lecture List” tab and looks through the lectures he has made. He needs to change the password for lecture 5 so he clicks “Edit” next to Lecture 5
 
 
+http://pine-apple.googlecode.com/files/lecture%20list.PNG
+
  
 4. He makes the changes that are necessary and saves the password.
+
+
+http://pine-apple.googlecode.com/files/lecture%20pass.PNG
+
  
 5. Eric is now done so he can log out.
