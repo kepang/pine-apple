@@ -6,22 +6,7 @@
 
 = REQUIREMENTS DOCUMENT = 
 
-== Introduction ==
-
-== Intended Audience ==
-
-== Features ==
-=== Client Features ===
-=== Server Features ===
-
-== Non-Functional Requirements ==
-
-== Example Tutorials ==
-=== Client Tutorials ===
-
-=== Server Tutorials ===
-
-== Glossary ==
+ This is a Link to Requirement Document [http://code.google.com/p/pine-apple/wiki/RequirementDoc (Requirement Document)]
 
 = DESIGN DOCUMENT =
 
