@@ -78,6 +78,8 @@ Here is a summary of what the client-side user interface should look like.  This
 
 Here is a summary of what the server-side user interface should look like.  This should be regarded as a guideline only.
 
+[http://pine-apple.googlecode.com/files/guideline1.PNG]
+
 ==== 3.1.2 Functional Requirements ====
 
  * User Manager
