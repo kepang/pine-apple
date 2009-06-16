@@ -10,6 +10,8 @@
 
 = DESIGN DOCUMENT =
 
+ This is a Link to Design Document [http://code.google.com/p/pine-apple/wiki/designdoc (Design Document)]
+
 = QUALITY ASSURANCE PLAN =
 
- This is a Link to Quality plan document [http://code.google.com/p/pine-apple/wiki/qualityplan (Quality Plan Documnet)]
+ This is a Link to Quality plan Document [http://code.google.com/p/pine-apple/wiki/qualityplan (Quality Plan Documnet)]
