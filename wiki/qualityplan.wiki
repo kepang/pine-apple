@@ -82,7 +82,8 @@ For each of the three versions, there will be three phases in the development cy
 
 Each of these phases will have its own internal deadline and must be completed in order to facilitate the progression to the next phase.  First, the application will be coded during the implementation phase.  When this is complete, the testing phase is entered in which unit, feature, system, and non-functional level testing will be performed.  A list of defects will be compiled as a result.  Finally, from this list, bug fixing will take place before the final build is submitted.
 The schedule and internal deadlines for all three versions is shown in Gantt chart format as well as in table format below.
- 
+
+[http://pine-apple.googlecode.com/files/deadline.PNG] 
 
 || ||Version 1||Version 2||Version 3||
 ||Implementation||June 11-23||July 3 -10||July 17-24||
