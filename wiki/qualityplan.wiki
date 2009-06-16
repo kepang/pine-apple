@@ -14,7 +14,9 @@ Simpletest is an open source unit test framework for PHP.  As such, it is ideal 
 === Feature Testing ===
 
 Feature testing for both the client and server will be performed manually.  The test cases will be based upon the feature list in order to verify functionality of the client and server applications completely.  As such, coverage will include the following features:
+
 _Client_
+
  * 1.	One time user information
  * 2.	Lecture login
   * 2.1	Automated attendance recording
