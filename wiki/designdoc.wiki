@@ -117,7 +117,7 @@ The system will be able to display every statistic using a graph instead of just
 _Server Feature List_
 
 [http://pine-apple.googlecode.com/files/serverlist1.PNG]
-[http://pine-apple.googlecode.com/files/serverlist2.PNG]
+
 
 === Client (Version 1) ===
 
