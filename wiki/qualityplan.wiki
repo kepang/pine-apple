@@ -72,3 +72,47 @@ System Testing will cover the cases where there is communication between a) the 
 === Non-Functional Testing ===
 
 Non-Functional testing will cover the five categories outlined in the Non-Functional requirements.  As these requirements are applied across the entire system, a set of test cases will be derived from Feature and System testing and repeated various times in various orders to simulate real world use.  This will ensure that the system is verified against speed, ease of use, reliability, robustness, and portability requirements.
+
+== 2) Internal Deadlines ==
+
+For each of the three versions, there will be three phases in the development cycle:
+1)	Implementation
+2)	Testing
+3)	Bug Fix
+Each of these phases will have its own internal deadline and must be completed in order to facilitate the progression to the next phase.  First, the application will be coded during the implementation phase.  When this is complete, the testing phase is entered in which unit, feature, system, and non-functional level testing will be performed.  A list of defects will be compiled as a result.  Finally, from this list, bug fixing will take place before the final build is submitted.
+The schedule and internal deadlines for all three versions is shown in Gantt chart format as well as in table format below.
+ 
+
+	||Version 1||Version 2||Version 3
+Implementation||June 11-23||July 3 -10||July 17-24
+Testing	June||24-27||July 11||July 25-26
+Bug Fix	June||28-July 7||July 12-15||July 27-29
+
+
+
+== 3) Acceptance Setting ==
+
+We are going to do a user testing for our final version of the project.
+Time: 12:00 pm
+Date: 28 July 2009
+Location: Simon Fraser University
+
+We are going to ask some students to look at our final project, and this is the steps 
+
+Step:
+1. Create an Admin account for testing.
+2. Ask the user to open the iClicky website 
+3. Let the users to register an account. 
+4. Use I-phone to open the iClicky application.
+5. We will provide the sample quizzes
+6. The user will do the quiz
+7. Check their scores in iClicky.
+8. Ask their opinion about the program.
+
+Question:
+1.	What do you think of the program?       1     2     3     4     5
+2.	How hard is it to use the program?        1     2     3     4     5
+3.	Would you buy this application?
+4.	Are you willing to use the application?
+5.	Any suggestion to improve the application?
+6.	Do you think your professor would likely use this application?
