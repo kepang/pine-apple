@@ -101,19 +101,19 @@ Location: Simon Fraser University
 We are going to ask some students to look at our final project, and this is the steps 
 
 Step:
-1. Create an Admin account for testing.
-2. Ask the user to open the iClicky website 
-3. Let the users to register an account. 
-4. Use I-phone to open the iClicky application.
-5. We will provide the sample quizzes
-6. The user will do the quiz
-7. Check their scores in iClicky.
-8. Ask their opinion about the program.
+ * Create an Admin account for testing.
+ * Ask the user to open the iClicky website 
+ * Let the users to register an account. 
+ * Use I-phone to open the iClicky application.
+ * We will provide the sample quizzes
+ * The user will do the quiz
+ * Check their scores in iClicky.
+ * Ask their opinion about the program.
 
 Question:
-1.	What do you think of the program?       1     2     3     4     5
-2.	How hard is it to use the program?        1     2     3     4     5
-3.	Would you buy this application?
-4.	Are you willing to use the application?
-5.	Any suggestion to improve the application?
-6.	Do you think your professor would likely use this application?
+ * What do you think of the program?       1     2     3     4     5
+ * How hard is it to use the program?      1     2     3     4     5
+ * Would you buy this application?
+ * Are you willing to use the application?
+ * Any suggestion to improve the application?
+ * Do you think your professor would likely use this application?
