@@ -76,17 +76,18 @@ Non-Functional testing will cover the five categories outlined in the Non-Functi
 == 2) Internal Deadlines ==
 
 For each of the three versions, there will be three phases in the development cycle:
-1)	Implementation
-2)	Testing
-3)	Bug Fix
+ # Implementation
+ # Testing
+ # Bug Fix
+
 Each of these phases will have its own internal deadline and must be completed in order to facilitate the progression to the next phase.  First, the application will be coded during the implementation phase.  When this is complete, the testing phase is entered in which unit, feature, system, and non-functional level testing will be performed.  A list of defects will be compiled as a result.  Finally, from this list, bug fixing will take place before the final build is submitted.
 The schedule and internal deadlines for all three versions is shown in Gantt chart format as well as in table format below.
  
 
-	||Version 1||Version 2||Version 3
-Implementation||June 11-23||July 3 -10||July 17-24
-Testing	June||24-27||July 11||July 25-26
-Bug Fix	June||28-July 7||July 12-15||July 27-29
+|| ||Version 1||Version 2||Version 3||
+||Implementation||June 11-23||July 3 -10||July 17-24||
+||Testing||June 24-27||July 11||July 25-26||
+||Bug Fix||June 28-July 7||July 12-15||July 27-29||
 
 
 
