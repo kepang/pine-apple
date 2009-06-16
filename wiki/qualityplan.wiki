@@ -101,19 +101,68 @@ Location: Simon Fraser University
 We are going to ask some students to look at our final project, and this is the steps 
 
 Step:
- * Create an Admin account for testing.
- * Ask the user to open the iClicky website 
- * Let the users to register an account. 
- * Use I-phone to open the iClicky application.
- * We will provide the sample quizzes
- * The user will do the quiz
- * Check their scores in iClicky.
- * Ask their opinion about the program.
+ # Create an Admin account for testing.
+ # Ask the user to open the iClicky website 
+ # Let the users to register an account. 
+ # Use I-phone to open the iClicky application.
+ # We will provide the sample quizzes
+ # The user will do the quiz
+ # Check their scores in iClicky.
+ # Ask their opinion about the program.
 
 Question:
- * What do you think of the program?       1     2     3     4     5
- * How hard is it to use the program?      1     2     3     4     5
- * Would you buy this application?
- * Are you willing to use the application?
- * Any suggestion to improve the application?
- * Do you think your professor would likely use this application?
+ # What do you think of the program?       1     2     3     4     5
+ # How hard is it to use the program?      1     2     3     4     5
+ # Would you buy this application?
+ # Are you willing to use the application?
+ # Any suggestion to improve the application?
+ # Do you think your professor would likely use this application?
+
+== 4) Integration Testing ==
+
+=== Version 1 Integration ===
+
+The purpose of the first integration is to integrate the basic client and the server features. The first feature that will be integrated before any other features are combined is the automated login with the client and the server. Since the client saves the user information it can connect to the database as soon as the client is opened. To make sure this feature works correctly a text box will be added to the user interface that will display true if connection was a success or false if it was not. Once this feature is completed then the population of the client’s list of classes can be done by retrieving the list of classes for that specific user from the server. To test this all that is needed is to compare weather the displayed class list matches the class list saved on the server. Now the ability to login to a class will be completed as well as the automated attendance recording if the password is correct. To test this feature a pop up box will appear if the password is incorrect, saying “Password Incorrect” (at this point it is assumed the pop up box feature has already been tested and is working) .  To make sure the attendance is recorded correctly simply view the database.  Other features, in this version, that will be done do not require integration of the server and the client. One feature that does require integration is the report bugs feature which needs to be able to integrate with the mail application built into the iPhone/ iTouch. 
+
+=== Version 2 Integration ===
+
+In version two of iClicky there is only one feature that needs to be integrated and tested which is the quiz feature. This is the main function of iClicky. To integrate the quiz feature the server list of questions will be displayed one at a time onto the client. To ensure that the right questions are displayed in the proper order the ability to refer back to the database seems to be the simplest solution.
+
+=== Version 3 Integration ===
+
+In the final release of iClicky the integration of the ability to view previous test scores and averages on the client and server will be done. To ensure the integration was successful multiple steps will be taken. The first step will be to write a quiz and see if it is available to view under the “previous tests” tab on the client. The second step will to check if the score listed on the server matches the score displayed on the client. The final step is to check if the averages calculated on the server matches the average displayed by the client.
+
+== 5) Measurement of Size and Complexity ==
+
+=== Size-Related Metrics ===
+==== Client ====
+
+To record the size and complexity of the project the main application that will be used is Xcode. It will record the number of files, the number of lines of source, and the size of each individual file. Another important metric that will be recorded is the time spent on coding. Although no software is necessary for this it is an important tool necessary to help estimate the amount of time it will take to code a given number of lines of source code needed. Multiple graphs, most likely pie graphs, will be used to display the raw data. One graph will display the number of lines of source code for a given class in comparison to the amount of time it took for that class. This will give a ruff estimation of what was deemed to be the most difficult in terms of coding and what was the simplest while being updated after each version.  
+
+==== Server ====
+
+To record the size and complexity of the server side of the project, there are two main scripts will be used which are Eclipse and PHPDepend . We use Eclipse to measure the number of files required for the project, the total size of the project, and the number of code lines necessary. Moreover, PHPdepend, http://www.pdepend.org/news.html, is used to measure the complexity of the project. The server will also use multiple graph to display all version of measurement; the graph that will display the number of files, the total size, the number of lines, and also the complexity. By displaying it using the multiple graph, we are able to make a comparison and find out a conclusion.
+
+
+
+
+== 6) Action for Qualitative Product ==
+
+||Action||Date||Time||
+||meeting (divide the jobs)||12-Jun-09||12:30 PM||
+||learn how to code||13-Jun-09||12:00 PM||
+||start coding||15-Jun-09||1:00 PM||
+||find problems||15-Jun-09||1:00 PM||
+||ask question to instructor or TA||16-Jun-09||Anytime||
+||meeting (solve problem)||18-Jun-09||8:30 PM||
+||continue coding||19-Jun-09||1:00 PM||
+||check version 1 before submit||01-Jul-09||1:00 PM||
+||evaluating version 1||04-Jul-09||after marked||
+||check version 2before submit||before submit version 2||
+||evaluating version 2||after version 2 is marked||
+||check final product||before submit version 3||
+
+Action:
+ # Coding will be done consistently through the end of the class.
+ # Asking question will also be done constantly
+ # Meeting will also be done consistently
