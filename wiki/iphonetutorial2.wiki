@@ -1,0 +1,23 @@
+#summary Using iClicky for a Quiz.
+
+= Tutorial 2 =
+
+*Tutorial #2: Using iClicky for a Quiz*
+Now that Billy has registered his account with his phone he is ready to write his first quiz. Billy is now in class and is about to start the quiz. The instructor writes the class password on the overhead. He tells the class to login to have their attendance recorded and to be able to write the quiz. These are the steps that Billy follows to login, have attendance recorded, and write the quiz:
+ 
+ # Find the iClicky icon on the Springboard and open it.
+ # Select the first tab on the bottom of the screen.
+ 
+
+ # Select the class from the drop down menu.
+ 
+ # Enter the quiz password given by the instructor at the beginning of the lecture.
+ # Press SUBMIT.
+ # If the password is correct attendance will automatically be recorded.
+ # Now select the second tab at the bottom of the screen to begin the quiz.
+ 
+ # When a question is displayed select one of the alphabetical buttons. (The answers are not displayed on the phone they are displayed on the instructors overhead as another security measure to prevent cheating)
+ 
+ # Select the SUBMIT button to finalize the answer.
+ 
+ # Once the lecture ends close the program.
