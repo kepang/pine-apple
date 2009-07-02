@@ -1,0 +1,21 @@
+@CHARSET "ISO-8859-1";
+
+.debug {
+	color: gray;
+}
+
+body {
+	font-family: sans-serif, verdana;
+}
+
+table {
+	border: 1px solid #AAAAAA;
+	border-collapse: collapse;
+	padding: 2px;
+}
+
+td {
+	border: 1px solid #AAAAAA;
+}
+	
+
