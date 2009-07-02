@@ -7,7 +7,7 @@ Billy has just bought iClicky from the application store as directed by his CMPT
  
  # Find the iClicky icon on the Springboard and open it.
  # A form should open up which looks similar to this:
- 
+[http://pine-apple.googlecode.com/files/iPhoneform.PNG] 
 
  # Enter information into the text boxes while making sure the information entered matches what is listed with the school.
  # Click SUBMIT when finished.
