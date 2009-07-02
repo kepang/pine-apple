@@ -7,17 +7,12 @@ Now that Billy has registered his account with his phone he is ready to write hi
  
  # Find the iClicky icon on the Springboard and open it.
  # Select the first tab on the bottom of the screen.
- 
-
- # Select the class from the drop down menu.
- 
+   [http://pine-apple.googlecode.com/files/iPhoneform2.PNG]
+ # Select the class from the drop down menu. 
  # Enter the quiz password given by the instructor at the beginning of the lecture.
  # Press SUBMIT.
  # If the password is correct attendance will automatically be recorded.
- # Now select the second tab at the bottom of the screen to begin the quiz.
- 
+ # Now select the second tab at the bottom of the screen to begin the quiz. 
  # When a question is displayed select one of the alphabetical buttons. (The answers are not displayed on the phone they are displayed on the instructors overhead as another security measure to prevent cheating)
- 
- # Select the SUBMIT button to finalize the answer.
- 
+ # Select the SUBMIT button to finalize the answer. 
  # Once the lecture ends close the program.
