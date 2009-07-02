@@ -123,10 +123,10 @@ Target systems on the client side include the iPhone and iPod Touch.  The server
 
 === Client ===
 
- * Tutorial #1: Opening application for the first time and registering an account
- * Tutorial #2: Using iClicky for a Quiz
- * Tutorial #3: View previously done quizzes
- * Tutorial #4: Tutorials and Extras
+ * [http://code.google.com/p/pine-apple/wiki/iphonetutorial1 Tutorial #1: Opening application for the first time and registering an account]
+ * [http://code.google.com/p/pine-apple/wiki/iphonetutorial2 Tutorial #2: Using iClicky for a Quiz]
+ * [http://code.google.com/p/pine-apple/wiki/iphonetutorial3 Tutorial #3: View previously done quizzes]
+ * [http://code.google.com/p/pine-apple/wiki/iphonetutorial4 Tutorial #4: Tutorials and Extras]
 
 === Server ===
 
