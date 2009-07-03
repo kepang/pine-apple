@@ -8,7 +8,7 @@ David is a sophisticated computing science instructor. He realizes that his prin
  # He logs into the iClicky webpage.
    [http://pine-apple.googlecode.com/files/weblogin.PNG] 
  # David has an Admin account and he decides to click on the “Class Manger” button.
- 
+   [http://pine-apple.googlecode.com/files/Admin.PNG] 
  # David clicks the “Create Quiz” tab, and a list of his quizzes is shown.
  
  # He clicks the “Create Quiz” button at the bottom of the page, then chooses the class, fills in the quiz name, the number of questions to be made, and clicks submit.
