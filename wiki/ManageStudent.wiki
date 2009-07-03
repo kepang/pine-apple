@@ -6,9 +6,9 @@
 James is a computing science instructor. This is his first semester teaching in Simon Fraser University. At the beginning of the semester, James realizes that he forgot to add Johnny to his chemistry class and follows these steps to add him:
 
  # He logs into the iClicky webpage.
- 
+   [http://pine-apple.googlecode.com/files/weblogin.PNG]
  # James has an Admin account and he decides to click on the “Student Manger” button because he is trying to add a student to his class.
- 
+   [http://pine-apple.googlecode.com/files/Admin.PNG]
  # James chooses the class where he wants to put Johnny into.
  
  # The students list of the class is shown. John clicks the “Add” button.
@@ -18,4 +18,3 @@ James is a computing science instructor. This is his first semester teaching in 
  # Johnny is now registered in the CMPT 275 class.
  
  # James is now done and can log out.
-
