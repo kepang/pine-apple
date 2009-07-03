@@ -68,10 +68,20 @@ Here is a summary of what the client-side user interface should look like.  This
 ==== 3.1.2 Functional Requirements ====
 
  * One time user information
+  * When iClicky is opened for the first time a form is displayed where the user enters his/her information which is saved into the application to prevent users from being able to change information (for students who plan on cheating). As a failsafe, encase incorrect information is entered, the user may remove the application from their device and reinstall it allowing for information to be re-entered.  One iPhone/iTouch app will only have one user. This is to prevent students to sign in as different people.
+
  * Lecture login
+  * Lecture login is used as a way to see who is actually in the lecture because login cannot occur without the lecture password. One of the shortcut tabs at the bottom of screen will be dedicated to logging into the lecture.
+  * A password is set up for each quiz to prevent students who did not physically attend the lecture from being able to do the quiz. This feature is necessary because for iClicky to connect to the database all that is needed is an internet connection.
+
  * Quiz
+  * The quiz being conducted by the instructor will be displayed in iClicky. This is the main function of the client. One of the shortcut tabs at the bottom of screen will be dedicated to the quiz. The quiz`s main aspect will be the multiple choice buttons used to key in an answer to a question.
+
  * Display Completed Quizzes
+  * Allows the user to select a previously written quiz and view the score and the class average. To view a previously written quiz all the user need to do is select the class from the drop down menu as well as which quiz the user wishes to view.
+
  * Help
+  * An area dedicated to help users with the iClicky application. One of the shortcut tabs at the bottom of screen will be dedicated to help. In the help tab a list of all the tutorials dedicated to the iClicky client will be linked for easy reference for the user. The links will open safari and take them to the selected tutorial. There will also be a report bug’s link.
 
 === 3.2 Server ===
 
