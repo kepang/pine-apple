@@ -6,7 +6,7 @@
 David is a sophisticated computing science instructor. He realizes that his printer is broken, so he is wondering how he should make quizzes for his students. He suddenly remembers that he has an iClicky account and follows these steps to make a quiz question:
 
  # He logs into the iClicky webpage.
- 
+   [http://pine-apple.googlecode.com/files/weblogin.PNG] 
  # David has an Admin account and he decides to click on the “Class Manger” button.
  
  # David clicks the “Create Quiz” tab, and a list of his quizzes is shown.
