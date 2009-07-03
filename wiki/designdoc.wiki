@@ -31,7 +31,7 @@ _Sample of display completed Quizzes_
  
 [http://pine-apple.googlecode.com/files/samplecompletequiz.PNG]
 
-[http://pine-apple.googlecode.com/files/topology.PNG]
+[http://pine-apple.googlecode.com/files/Topology%20diagram.jpg]
 
 _ER Diagram_
 
