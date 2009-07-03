@@ -34,7 +34,7 @@ The intended audiences of the application are students and instructors, mainly u
 
 *Assumed Experience*
 
-The users of the iClicky must be able have basic knowledge of computers and using the iPhone
+The users of the iClicky must have basic knowledge of computers and using the iPhone
  * Instructors and students have used a computer with a mouse and keyboard
  * Instructors have used the internet
  * Instructors and students have used iPhone
