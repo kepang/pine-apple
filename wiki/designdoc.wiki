@@ -1,7 +1,7 @@
 #summary Design Document.
-Revised July 2, 2009
-= Design and Feature Document =
 
+= Design and Feature Document =
+Revised July 2, 2009
 
 == Guidelines ==
 === Software Guidelines ===
