@@ -116,7 +116,7 @@ The system will be able to display every statistic using a graph instead of just
 
 _Server Feature List_
 
-[http://pine-apple.googlecode.com/files/serverlist1.PNG]
+[http://pine-apple.googlecode.com/files/server%20featurelist.jpg]
 
 
 === Client (Version 1) ===
@@ -154,4 +154,4 @@ Average -  Displays the class average for the specific quiz
 
 _Client Feature List_
 
-[http://pine-apple.googlecode.com/files/clientlist.PNG] 
+[http://pine-apple.googlecode.com/files/client%20featurelist.jpg] 
