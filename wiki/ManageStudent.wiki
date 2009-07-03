@@ -10,11 +10,11 @@ James is a computing science instructor. This is his first semester teaching in 
  # James has an Admin account and he decides to click on the “Student Manger” button because he is trying to add a student to his class.
    [http://pine-apple.googlecode.com/files/Admin.PNG]
  # James chooses the class where he wants to put Johnny into.
- 
+   [http://pine-apple.googlecode.com/files/studentclass.PNG]
  # The students list of the class is shown. John clicks the “Add” button.
- 
+   [http://pine-apple.googlecode.com/files/studentlist.PNG]
  # James looks for Johnny’s name in the list, and clicks “Add”.
- 
+   [http://pine-apple.googlecode.com/files/studentchoose.PNG]
  # Johnny is now registered in the CMPT 275 class.
- 
+   [http://pine-apple.googlecode.com/files/studentupdate.PNG]
  # James is now done and can log out.
