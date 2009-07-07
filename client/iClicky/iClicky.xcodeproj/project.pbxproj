@@ -1,0 +1,324 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* iClickyAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* iClickyAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		6F660D940FFBE7D000413B7F /* PineApple Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 6F660D930FFBE7D000413B7F /* PineApple Logo.png */; };
+		6F660D9A0FFBF06200413B7F /* grouplogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 6F660D990FFBF06200413B7F /* grouplogo.png */; };
+		6F660F5E0FFC31C000413B7F /* uData.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6F660F5D0FFC31C000413B7F /* uData.plist */; };
+		6F660F820FFC334000413B7F /* classList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6F660F810FFC334000413B7F /* classList.plist */; };
+		6F8B23260FF97275002CE2B8 /* AboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F8B23250FF97275002CE2B8 /* AboutViewController.m */; };
+		6F8B23290FF97280002CE2B8 /* PopupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F8B23280FF97280002CE2B8 /* PopupViewController.m */; };
+		6F8B232C0FF97289002CE2B8 /* ScoresViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F8B232B0FF97289002CE2B8 /* ScoresViewController.m */; };
+		6F8B232F0FF97290002CE2B8 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F8B232E0FF97290002CE2B8 /* LoginViewController.m */; };
+		6F8B23320FF97297002CE2B8 /* HelpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F8B23310FF97297002CE2B8 /* HelpViewController.m */; };
+		6F8B23350FF972B5002CE2B8 /* QuizViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F8B23340FF972B5002CE2B8 /* QuizViewController.m */; };
+		6F8B23390FF97343002CE2B8 /* AboutView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6F8B23380FF97343002CE2B8 /* AboutView.xib */; };
+		6F8B233B0FF9734A002CE2B8 /* PopupView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6F8B233A0FF9734A002CE2B8 /* PopupView.xib */; };
+		6F8B233D0FF97352002CE2B8 /* ScoresView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6F8B233C0FF97352002CE2B8 /* ScoresView.xib */; };
+		6F8B233F0FF9735A002CE2B8 /* LoginView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6F8B233E0FF9735A002CE2B8 /* LoginView.xib */; };
+		6F8B23410FF97360002CE2B8 /* HelpView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6F8B23400FF97360002CE2B8 /* HelpView.xib */; };
+		6F8B23430FF97366002CE2B8 /* QuizView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6F8B23420FF97366002CE2B8 /* QuizView.xib */; };
+		6F8B236F0FF97882002CE2B8 /* dependenticon.png in Resources */ = {isa = PBXBuildFile; fileRef = 6F8B236D0FF97882002CE2B8 /* dependenticon.png */; };
+		6F8B23700FF97882002CE2B8 /* toolicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 6F8B236E0FF97882002CE2B8 /* toolicon.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* iClickyAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iClickyAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* iClickyAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iClickyAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* iClicky.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iClicky.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* iClicky_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iClicky_Prefix.pch; sourceTree = "<group>"; };
+		6F660D930FFBE7D000413B7F /* PineApple Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PineApple Logo.png"; sourceTree = "<group>"; };
+		6F660D990FFBF06200413B7F /* grouplogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grouplogo.png; sourceTree = "<group>"; };
+		6F660F5D0FFC31C000413B7F /* uData.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = uData.plist; sourceTree = "<group>"; };
+		6F660F810FFC334000413B7F /* classList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = classList.plist; sourceTree = "<group>"; };
+		6F8B23240FF97275002CE2B8 /* AboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutViewController.h; sourceTree = "<group>"; };
+		6F8B23250FF97275002CE2B8 /* AboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutViewController.m; sourceTree = "<group>"; };
+		6F8B23270FF97280002CE2B8 /* PopupViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PopupViewController.h; sourceTree = "<group>"; };
+		6F8B23280FF97280002CE2B8 /* PopupViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PopupViewController.m; sourceTree = "<group>"; };
+		6F8B232A0FF97289002CE2B8 /* ScoresViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScoresViewController.h; sourceTree = "<group>"; };
+		6F8B232B0FF97289002CE2B8 /* ScoresViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScoresViewController.m; sourceTree = "<group>"; };
+		6F8B232D0FF97290002CE2B8 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
+		6F8B232E0FF97290002CE2B8 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
+		6F8B23300FF97297002CE2B8 /* HelpViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HelpViewController.h; sourceTree = "<group>"; };
+		6F8B23310FF97297002CE2B8 /* HelpViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HelpViewController.m; sourceTree = "<group>"; };
+		6F8B23330FF972B5002CE2B8 /* QuizViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QuizViewController.h; sourceTree = "<group>"; };
+		6F8B23340FF972B5002CE2B8 /* QuizViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QuizViewController.m; sourceTree = "<group>"; };
+		6F8B23380FF97343002CE2B8 /* AboutView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AboutView.xib; sourceTree = "<group>"; };
+		6F8B233A0FF9734A002CE2B8 /* PopupView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PopupView.xib; sourceTree = "<group>"; };
+		6F8B233C0FF97352002CE2B8 /* ScoresView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ScoresView.xib; sourceTree = "<group>"; };
+		6F8B233E0FF9735A002CE2B8 /* LoginView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LoginView.xib; sourceTree = "<group>"; };
+		6F8B23400FF97360002CE2B8 /* HelpView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HelpView.xib; sourceTree = "<group>"; };
+		6F8B23420FF97366002CE2B8 /* QuizView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = QuizView.xib; sourceTree = "<group>"; };
+		6F8B236D0FF97882002CE2B8 /* dependenticon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dependenticon.png; sourceTree = "<group>"; };
+		6F8B236E0FF97882002CE2B8 /* toolicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toolicon.png; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				6F8B23270FF97280002CE2B8 /* PopupViewController.h */,
+				6F8B23280FF97280002CE2B8 /* PopupViewController.m */,
+				6F8B232A0FF97289002CE2B8 /* ScoresViewController.h */,
+				6F8B232B0FF97289002CE2B8 /* ScoresViewController.m */,
+				6F8B232D0FF97290002CE2B8 /* LoginViewController.h */,
+				6F8B232E0FF97290002CE2B8 /* LoginViewController.m */,
+				6F8B23300FF97297002CE2B8 /* HelpViewController.h */,
+				6F8B23310FF97297002CE2B8 /* HelpViewController.m */,
+				6F8B23330FF972B5002CE2B8 /* QuizViewController.h */,
+				6F8B23340FF972B5002CE2B8 /* QuizViewController.m */,
+				1D3623240D0F684500981E51 /* iClickyAppDelegate.h */,
+				1D3623250D0F684500981E51 /* iClickyAppDelegate.m */,
+				6F8B23240FF97275002CE2B8 /* AboutViewController.h */,
+				6F8B23250FF97275002CE2B8 /* AboutViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* iClicky.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* iClicky_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				6F660F810FFC334000413B7F /* classList.plist */,
+				6F660F5D0FFC31C000413B7F /* uData.plist */,
+				6F660D990FFBF06200413B7F /* grouplogo.png */,
+				6F660D930FFBE7D000413B7F /* PineApple Logo.png */,
+				6F8B236D0FF97882002CE2B8 /* dependenticon.png */,
+				6F8B236E0FF97882002CE2B8 /* toolicon.png */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* Info.plist */,
+				6F8B23380FF97343002CE2B8 /* AboutView.xib */,
+				6F8B233A0FF9734A002CE2B8 /* PopupView.xib */,
+				6F8B233C0FF97352002CE2B8 /* ScoresView.xib */,
+				6F8B233E0FF9735A002CE2B8 /* LoginView.xib */,
+				6F8B23400FF97360002CE2B8 /* HelpView.xib */,
+				6F8B23420FF97366002CE2B8 /* QuizView.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* iClicky */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "iClicky" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iClicky;
+			productName = iClicky;
+			productReference = 1D6058910D05DD3D006BFB54 /* iClicky.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "iClicky" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* iClicky */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				6F8B23390FF97343002CE2B8 /* AboutView.xib in Resources */,
+				6F8B233B0FF9734A002CE2B8 /* PopupView.xib in Resources */,
+				6F8B233D0FF97352002CE2B8 /* ScoresView.xib in Resources */,
+				6F8B233F0FF9735A002CE2B8 /* LoginView.xib in Resources */,
+				6F8B23410FF97360002CE2B8 /* HelpView.xib in Resources */,
+				6F8B23430FF97366002CE2B8 /* QuizView.xib in Resources */,
+				6F8B236F0FF97882002CE2B8 /* dependenticon.png in Resources */,
+				6F8B23700FF97882002CE2B8 /* toolicon.png in Resources */,
+				6F660D940FFBE7D000413B7F /* PineApple Logo.png in Resources */,
+				6F660D9A0FFBF06200413B7F /* grouplogo.png in Resources */,
+				6F660F5E0FFC31C000413B7F /* uData.plist in Resources */,
+				6F660F820FFC334000413B7F /* classList.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* iClickyAppDelegate.m in Sources */,
+				6F8B23260FF97275002CE2B8 /* AboutViewController.m in Sources */,
+				6F8B23290FF97280002CE2B8 /* PopupViewController.m in Sources */,
+				6F8B232C0FF97289002CE2B8 /* ScoresViewController.m in Sources */,
+				6F8B232F0FF97290002CE2B8 /* LoginViewController.m in Sources */,
+				6F8B23320FF97297002CE2B8 /* HelpViewController.m in Sources */,
+				6F8B23350FF972B5002CE2B8 /* QuizViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iClicky_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				PRODUCT_NAME = iClicky;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iClicky_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				PRODUCT_NAME = iClicky;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos2.2;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos2.2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "iClicky" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "iClicky" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
